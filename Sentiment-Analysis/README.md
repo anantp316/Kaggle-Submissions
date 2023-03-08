@@ -1,4 +1,3 @@
-This notebook is a submission to the "" Competition on Kaggle.
+This notebook is based on the dataset "Sentiment140 dataset with 1.6 million tweets".
 
-Link to Kaggle - 
-
+Link to Kaggle - https://www.kaggle.com/datasets/kazanova/sentiment140
